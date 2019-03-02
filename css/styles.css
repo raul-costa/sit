@@ -171,6 +171,8 @@ h2 {
 /* ------------------------------------------*/
 
 .collaborations-container {
+    border: 1px solid green;
+    height: 100px;
     display: flex;
     justify-content: center;
 }
